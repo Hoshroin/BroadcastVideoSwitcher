@@ -1,7 +1,7 @@
 # BroadcastVideoSwitcher
 这是一个能随机切换视频并显示的脚本，按Q键可以切入指定视频\
-脚本依赖`python-opencv`，请在使用前自行安装
-如果你的网速不够快，不要直接clone整个库，因为里面包含了示例视频，下载`main.py`和`clip_id.virset`文件，并新建一个名为`videos`的文件夹即可
+脚本依赖`python-opencv`，请在使用前自行安装\
+如果你的网速不够快，建议不要直接clone整个库，因为里面包含了示例视频，下载`main.py`和`clip_id.virset`文件，并新建一个名为`videos`的文件夹即可
 ## 这个有啥用处？
 搭配OBS的窗口捕获+虚拟摄像头 XD
 ## 怎么用？
